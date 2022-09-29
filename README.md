@@ -1,2 +1,0 @@
-# ksop
-test sayt
